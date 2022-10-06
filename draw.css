@@ -1,54 +1,57 @@
 /* drawing youtube play button*/
-.button_1,.button_2,.button_3{
-  background-color: rgb(245, 21, 21) ;
+.button_1, .button_2, .button_3 {
+  background-color: rgb(245, 21, 21);
   height: 200px;
   width: 400px;
   border-radius: 20%;
-  border:solid rgb(245, 21, 21) 20px ;
+  border: solid rgb(245, 21, 21) 20px;
 }
 
-.pause_1{
-    background-color: rgb(253, 253, 253);
-    height: 50px;
-    width: 20px;
-    position: fixed;
-    top:100px; left: 200px;
+.pause_1 {
+  background-color: rgb(253, 253, 253);
+  height: 50px;
+  width: 20px;
+  position: fixed;
+  top: 100px;
+  left: 200px;
 }
 /* other stages of playing videos */
-.pause_2{
-    background-color: rgb(253, 253, 253);
-    height: 50px;
-    width: 20px;
-    position: fixed;
-    top:100px; left: 250px;
+.pause_2 {
+  background-color: rgb(253, 253, 253);
+  height: 50px;
+  width: 20px;
+  position: fixed;
+  top: 100px;
+  left: 250px;
 }
 
-.button_2{
-    position:fixed;
-    top:0; left:600px;
-  }
+.button_2 {
+  position: fixed;
+  top: 0;
+  left: 600px;
+}
 
-  .play{
-    width: 0; 
-    height: 0; 
-    border-left: 70px solid rgb(255, 254, 254);
-    border-top: 40px solid transparent;
-    border-bottom: 40px solid transparent;
-    position: fixed;
-    top: 75px; left: 800px;
-  }
+.play {
+  width: 0;
+  height: 0;
+  border-left: 70px solid rgb(255, 254, 254);
+  border-top: 40px solid transparent;
+  border-bottom: 40px solid transparent;
+  position: fixed;
+  top: 75px;
+  left: 800px;
+}
 
-  .button_3{
-    position: fixed;
-    top: 300px; 
-  }
+.button_3 {
+  position: fixed;
+  top: 300px;
+}
 
-  .stop{
-    background-color: rgb(250, 249, 249);
-    height: 60px;
-    width: 60px;
-    position: fixed;
-    top:62.5%; left: 200px;
-  }
-
-  
+.stop {
+  background-color: rgb(250, 249, 249);
+  height: 60px;
+  width: 60px;
+  position: fixed;
+  top: 62.5%;
+  left: 200px;
+}
