@@ -1,0 +1,64 @@
+/* drawing youtube play button*/
+.a{
+  background-color: rgb(245, 21, 21) ;
+  height: 200px;
+  width: 400px;
+  border-radius: 20%;
+  border:solid rgb(245, 21, 21) 20px ;
+}
+
+.b{
+    background-color: rgb(253, 253, 253);
+    height: 50px;
+    width: 20px;
+    position: fixed;
+    top:100px; left: 200px;
+}
+/* other stages of playing videos */
+.c{
+    background-color: rgb(253, 253, 253);
+    height: 50px;
+    width: 20px;
+    position: fixed;
+    top:100px; left: 250px;
+}
+
+.d{
+    background-color: rgb(245, 21, 21) ;
+    height: 200px;
+    width: 400px;
+    border-radius: 20%;
+    border:solid rgb(245, 21, 21) 20px ;
+    position:fixed;
+    top:0; left:600px;
+  }
+
+  .e {
+    width: 0; 
+    height: 0; 
+    border-left: 70px solid rgb(255, 254, 254);
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    position: fixed;
+    top: 75px; left: 800px;
+  }
+
+  .f{
+    background-color: rgb(245, 21, 21) ;
+    height: 200px;
+    width: 400px;
+    border-radius: 20%;
+    border:solid rgb(245, 21, 21) 20px ;
+    position: fixed;
+    top: 300px; 
+  }
+
+  .g{
+    background-color: rgb(250, 249, 249);
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    bottom:180px; left: 200px;
+  }
+
+  
