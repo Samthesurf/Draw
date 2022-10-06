@@ -1,5 +1,5 @@
 /* drawing youtube play button*/
-.button_1{
+.button_1,.button_2,.button_3{
   background-color: rgb(245, 21, 21) ;
   height: 200px;
   width: 400px;
@@ -24,11 +24,6 @@
 }
 
 .button_2{
-    background-color: rgb(245, 21, 21) ;
-    height: 200px;
-    width: 400px;
-    border-radius: 20%;
-    border:solid rgb(245, 21, 21) 20px ;
     position:fixed;
     top:0; left:600px;
   }
@@ -44,11 +39,6 @@
   }
 
   .button_3{
-    background-color: rgb(245, 21, 21) ;
-    height: 200px;
-    width: 400px;
-    border-radius: 20%;
-    border:solid rgb(245, 21, 21) 20px ;
     position: fixed;
     top: 300px; 
   }
