@@ -51,7 +51,7 @@
   background-color: rgb(250, 249, 249);
   height: 60px;
   width: 60px;
-  position: fixed;
-  top: 62.5%;
-  left: 200px;
+  position: relative;
+  top: 35%;
+  left: 170px;
 }
